@@ -1,2 +1,2 @@
-# -
+# sendai_subway_nanboku
 仙台市営地下鉄南北線発車予定
